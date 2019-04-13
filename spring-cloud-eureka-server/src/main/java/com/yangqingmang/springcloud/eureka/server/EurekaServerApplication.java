@@ -1,4 +1,4 @@
-package com.yangqingmang.cloud.eureka.server;
+package com.yangqingmang.springcloud.eureka.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
