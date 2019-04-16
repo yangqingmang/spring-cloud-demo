@@ -1,4 +1,4 @@
-package com.yangqingmang.springcloud.eureka.client1.controller;
+package com.yangqingmang.springcloud.eureka.client2.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -10,7 +10,6 @@ public class HelloController {
 
     @GetMapping("sayHello")
     public String sayHello() {
-        return "eureka client1 say hello";
+        return "eureka client2 say hello";
     }
-
 }

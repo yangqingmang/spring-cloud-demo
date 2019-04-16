@@ -18,6 +18,8 @@
     <modules>
         <module>spring-cloud-eureka-server</module>
         <module>spring-cloud-eureka-client1</module>
+        <module>spring-cloud-eureka-client2</module>
+        <module>spring-cloud-consumer</module>
     </modules>
 
     <dependencyManagement>
